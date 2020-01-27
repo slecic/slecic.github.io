@@ -2,8 +2,8 @@
 title: "Defensive Secretions in Three Ground-Beetle Species (Insecta: Coleoptera: Carabidae)"
 category: articles
 permalink: /articles/2014-defensive-secretions
-excerpt: "Study of diversity and functional differentiation in two diploid Orchids."
-date: 30-03-2017
+excerpt: "Study of defensive secretions in three Ground-Beetle species"
+date: 01-07-2014
 #citation: "Francisco Balao  Emiliano Trucchi  Thomas M. Wolfe  Bao‐Hai Hao  Maria Teresa Lorenzo  Juliane Baar Laura Sedman  Carolin Kosiol  Fabian Amman  Mark W. Chase  Mikael Hedrén  Ovidiu Paun. 'Adaptive sequence evolution is driven by biotic stress in a pair of orchid species (*Dactylorhiza*) with distinct ecological optima.' Molecular Ecology 2017. <a href='https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.14123'>https://doi.org/10.1111/mec.14123 </a>"
 ---
 
