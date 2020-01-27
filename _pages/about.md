@@ -7,5 +7,5 @@ author_profile: true
 ---
 
 {% include base_path %}
-<img src="../images/Drosophilavirilis.jpeg" alt="me" style="width:40%;" align="left"/>
+<img src="../images/flies.pgn" alt="me" style="width:40%;" align="left"/>
 TO DO
