@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Slecic"
 title_separator          : "-"
-name                     : &name "Sonja Lecic"
+name                     : &name "Sonja Lečić"
 description              : &description "evolutionary biology"
 url                      : https://slecic.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sonja Lecic"
+  name             : "Sonja Lečić"
   avatar           : "422.png"
   bio              : "The only constant is change"
   location         : "Vienna"
