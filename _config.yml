@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WolfEvolution"
+title                    : "Slecic"
 title_separator          : "-"
-name                     : &name "Thomas Wolfe"
+name                     : &name "Sonja Lecic"
 description              : &description "evolutionary biology"
-url                      : https://twolfe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://slecic.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "twolfe/twolfe.github.io"
+repository               : "slecic/slecic.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "MupdnW"
+  username               : &twitter "klopkica"
 facebook:
   username               :
   app_id                 :
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Thomas M. Wolfe"
-  avatar           : "profile.jpg"
-  bio              : "Evolution all the way"
+  name             : "Sonja Lecic"
+  avatar           : "422.png"
+  bio              : "The only constant is change"
   location         : "Vienna"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=gEFelJQAAAAJ&hl=en"
-  email            : thomas.m.wolfe@gmail.com
+  email            : slecic8@gmail.com
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "twolfe"
+  github           : "slecic"
   google_plus      :
   keybase          :
   instagram        :
