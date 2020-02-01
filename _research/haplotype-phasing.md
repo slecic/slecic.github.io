@@ -1,5 +1,5 @@
 ---
-title: "Haplotype phasing"
+title: "Haplo-anti-type phasing"
 excerpt: "What the factors that influence the accuracy of haplotype phasing in Drosophila simulans."
 collection: research
 ---
