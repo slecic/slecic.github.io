@@ -6,7 +6,7 @@ author_profile: true
 ---
 Contact information is below, including emails, and other places where I live online.
 
-* E-mail: thomas.m.wolfe [at] gmail.com
+* E-mail: slecic8 [at] gmail.com
 
 * Twitter: [klopkica](https://twitter.com/klopkica)
 
