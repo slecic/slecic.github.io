@@ -1,5 +1,5 @@
 ---
-title: "Gemonic Signatures of Insecticide Resistance; Fluctuating Selection"
+title: "Genomic Signatures of Insecticide Resistance; Fluctuating Selection"
 excerpt: "What is the role of fluctuating thermal selection in maintaining genetic diversity?"
 collection: research
 ---
